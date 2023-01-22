@@ -1,0 +1,23 @@
+#modal-quotes-div{
+    margin-left: 4%;
+}
+#quotes-body {
+  font-family: adobe-garamond-pro, serif;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: normal;
+  letter-spacing: normal;
+  line-height: 52.6300010681152px;
+  text-transform: none;
+  color: #343434;
+}
+#quotes-author {
+  font-family: europa, sans-serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: bold;
+  letter-spacing: 2px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #cccccc;
+}

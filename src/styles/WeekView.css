@@ -1,0 +1,10 @@
+.today-card {
+  border-width: 5px !important;
+  border-color: blueviolet !important;
+}
+.today-card-body {
+  background-color: #9eedf0;
+}
+.date-para {
+    font-size: large;
+}

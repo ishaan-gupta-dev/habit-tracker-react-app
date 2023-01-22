@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/habit-tracker-react-app/static/css/main.eb491109.css",
+    "main.js": "/habit-tracker-react-app/static/js/main.bd73b760.js",
+    "static/media/none.gif": "/habit-tracker-react-app/static/media/none.623dd65f2c21b1c5ab46.gif",
+    "static/media/tick.gif": "/habit-tracker-react-app/static/media/tick.a3fd7406ca4e3916763d.gif",
+    "static/media/cross.gif": "/habit-tracker-react-app/static/media/cross.157176d1b9c6268661f3.gif",
+    "static/media/calendar.gif": "/habit-tracker-react-app/static/media/calendar.eab87aca15bb9be12e41.gif",
+    "static/media/clock.gif": "/habit-tracker-react-app/static/media/clock.8b05e8f0c18cc30dbf7d.gif",
+    "static/media/delete.gif": "/habit-tracker-react-app/static/media/delete.9bda2fb446f6385be6c3.gif",
+    "index.html": "/habit-tracker-react-app/index.html",
+    "main.eb491109.css.map": "/habit-tracker-react-app/static/css/main.eb491109.css.map",
+    "main.bd73b760.js.map": "/habit-tracker-react-app/static/js/main.bd73b760.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb491109.css",
+    "static/js/main.bd73b760.js"
+  ]
+}

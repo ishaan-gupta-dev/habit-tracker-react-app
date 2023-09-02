@@ -32,7 +32,7 @@ npm run deploy
 
 Hosted on
 
-https://ishaan-gupta-developer.github.io/habit-tracker-react-app/
+https://ishaan-gupta-dev.github.io/habit-tracker-react-app/
 
 ## Tech Stack
 
